@@ -2,7 +2,7 @@
 <html>
     <head>
       <meta charset="utf-8">
-      <title>PHP Laravel web application</title>
+      <title>PHP Laravel web applications2</title>
       <link href="{{ asset('css/gradients.css') }}" rel="stylesheet" type="text/css">
       <link href="{{ asset('css/styles.css') }}" rel="stylesheet" type="text/css">
     </head>
@@ -44,7 +44,7 @@
             <header>
                 <nav class="website-nav">
                     <ul>
-                        <li><a class="home-link" href="https://aws.amazon.com/">Home</a></li>
+                        <li><a class="home-link" href="https://aws.amazon.com/">Home2</a></li>
                         <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
                         <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
                         <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
